@@ -26,7 +26,7 @@ import { NgxChartsModule } from "@swimlane/ngx-charts/release/ngx-charts.module"
   imports: [
     BrowserModule,
 		BrowserAnimationsModule,
-		NgxChartsModule,
+		NgxChartsModule, // COMMENT OUT THIS LINE TO RENDER APP CORRECTLY
     IonicModule.forRoot(MyApp)
   ],
   bootstrap: [IonicApp],
