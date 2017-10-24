@@ -13,7 +13,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
 
-import { NgxChartsModule } from "@swimlane/ngx-charts/release/ngx-charts.module";
+import { NgxChartsModule } from "@swimlane/ngx-charts/";
 
 @NgModule({
   declarations: [
